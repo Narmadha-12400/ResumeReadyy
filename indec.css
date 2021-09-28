@@ -1,0 +1,123 @@
+.right-cont{
+  height: 500px;
+  width: 100px;
+}
+.right-cont1{
+  background-color: #fff;
+  padding-top: 10px;
+  height: 600px;
+}
+.right-cont2{
+  height: 1000px;
+  padding-top: 10px;
+}
+.right-cont3{
+  padding-top: 10px; 
+  height: 500px;
+}
+.right-cont4{
+  padding-top: 10px;
+  
+}
+.right-cont5{
+  padding-top: 10px;
+ 
+
+}
+.right-cont6{
+  padding-top: 10px;
+  
+}
+  
+.right-cont7{
+  padding-top: 10px;
+  
+}
+.right-cont8{
+  padding-top: 10px;
+ 
+}
+
+
+.right-cont9{
+  padding-top: 10px;
+  
+}
+.btn-lg{ 
+  width: 100%;
+}
+.col-sm-3{
+  height: 500px;
+  list-style-type:none;
+}
+
+.scroll{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: relative;
+    height: 500px;
+    width: 100%;
+  }
+  .btn-ed{
+    margin: 20px;
+  }
+.personal-details{
+  text-align: center;
+  margin: 20px;
+  margin-bottom: 30px;
+}
+
+.add-btn{
+  margin: 20px;
+}
+
+@media (max-width: 400px) {
+  .container-fluid{
+      padding: 0;
+      overflow-x: hidden;
+  }
+}
+
+.my-img{
+    /* border: 1px solid black; */
+    border-radius: 50%;
+    width: 200px;
+}
+
+.top-div{
+  margin-bottom: 150px;
+}
+
+.bk{
+  background-color: rgb(197, 187, 176);
+}
+
+.txtalg{
+  line-height: 5px;
+}
+.dcs{
+  line-height: normal;
+}
+.linesp{
+  padding: 25px;
+  line-height: 6px;
+}
+.menuu{
+  display: inline-block;
+  margin: 5px;
+  color: rgb(197, 187, 176);
+}
+.pd{
+  position: relative;
+  bottom: 8px;
+}
+.cds{
+  position: relative;
+  top: -40px;
+}
+.first{
+  line-height: 6px;
+}
+.linkss{
+  line-height: 15px;
+}
